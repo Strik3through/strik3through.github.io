@@ -2,7 +2,7 @@
 
 这里是删除线的博客的构建库。
 
-[*传送门*](https://rlp-strikethrough.github.io)
+[*传送门*](https://strik3through.github.io)
 
 ## 友情链接
 
